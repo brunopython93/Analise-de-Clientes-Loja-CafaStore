@@ -1,4 +1,4 @@
-# Analise de Clientes Loja CafaStore
+# Análise de Clientes Loja CafaStore
  
 Programa de análise de clientes assíduos e de novos clientes.
 
